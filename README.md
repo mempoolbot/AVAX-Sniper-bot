@@ -1,5 +1,5 @@
 # AVAX-Sniper-bot
-Mem pool bot / Avax Sniper Bot / forked from PCS bot 
+Mem pool bot / Avax Sniper Bot / forked from PCS bot / AVAX chain/ Trader Joe  
 OneTime Setup to execute bot
 
 Step 1 : You need to install NodeJs software at first from below link (If you install NodeJs already ignore this step)
